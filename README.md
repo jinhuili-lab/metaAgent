@@ -8,3 +8,4 @@
  * API: openAI
  * alpha, beta diversity. species difference
  * Sample type annotation
+![](https://raw.githubusercontent.com/jinhuili-lab/personal_image_bed/master/forMD/202411242123349.png)
